@@ -24,3 +24,6 @@ Pick one card game(Solitaire, Hearts, Rummy, Cheat, BlackJack, Mahjong etc) that
 
 ## Guide
 [Click here to watch milestone guide](https://drive.google.com/open?id=1WxYQGMQIn9vhPenRMF0t0wQUl1jdeAgC)
+
+## Hosted On Git Hub Pages
+https://sid6145.github.io/Card-game/
